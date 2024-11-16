@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Segundo previo</string>
+    <string name="welcome">Welcome!!</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msgPresentation">Presentación</string>
+    <string name="messageForm">Formulario</string>
+    <string name="msgConsult">Consultar</string>
+    <string name="msgExit">Cerrar sesion</string>
+    <string name="msgAddCharacter">Agregar personajes</string>
+    <string name="nameCharacter">Nombre del personaje:</string>
+    <string name="enterNameCharacter">Ingrese el nombre del personaje</string>
+    <string name="enterDescription">Ingrese una breve descripción</string>
+    <string name="descriptionCharacter">Descripción del personaje:</string>
+    <string name="nameStudent">Nombre del estudiante:</string>
+    <string name="codeStudent">Código del estudiante:</string>
+    <string name="nameSubject">Nombre de la materia:</string>
+    <string name="msgNameWarning">El nombre no puede estar vacio</string>
+    <string name="msgDescriptionWarning">La descripción no puede estar vacia</string>
+    <string name="msgImageWarning">Debe cargar una imagen</string>
+    <string name="msgTypeCharacterWarning">Debe seleccionar un tipo de personaje</string>
+
+</resources>

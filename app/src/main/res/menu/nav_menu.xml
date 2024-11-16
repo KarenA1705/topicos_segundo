@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_presentation"
+        android:icon="@drawable/person"
+        android:title="@string/msgPresentation" />
+    <item
+        android:id="@+id/nav_form"
+        android:icon="@drawable/person_add"
+        android:title="@string/messageForm" />
+    <item
+        android:id="@+id/nav_consult"
+        android:icon="@drawable/person_search"
+        android:title="@string/msgConsult" />
+    <item
+        android:id="@+id/nav_other"        android:title="Otros">
+        <menu>
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/exit"
+                android:title="@string/msgExit" />
+        </menu>
+    </item>
+</menu>
